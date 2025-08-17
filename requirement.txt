@@ -1,0 +1,24 @@
+# Core Data Science Libraries
+pandas>=1.5.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Machine Learning
+scikit-learn>=1.1.0
+imbalanced-learn>=0.9.0
+xgboost>=1.6.0
+lightgbm>=3.3.0
+
+# Date/Time Processing
+python-dateutil>=2.8.0
+
+# Optional: Enhanced Visualization
+plotly>=5.10.0
+
+# Development & Utilities
+jupyter>=1.0.0
+ipykernel>=6.15.0
+
+# Version Info
+# Python>=3.8
