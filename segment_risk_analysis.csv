@@ -1,0 +1,11 @@
+Segment,CustomerID_count,churn_probability_mean,churn_probability_std,is_churned_mean,Monetary_mean,Monetary_sum,recent_activity_ratio_30d_mean,purchase_interval_trend_mean
+About to Sleep,600,0.402,0.396,0.392,1004.707,602824.122,0.0,0.96
+At Risk,99,0.985,0.012,1.0,2008.704,198861.67,0.0,0.402
+Champions,863,0.001,0.0,0.0,5319.021,4590315.23,0.198,-4.897
+Hibernating,642,0.888,0.285,0.883,219.651,141016.25,0.0,0.0
+Lost,183,0.991,0.009,1.0,1009.288,184699.651,0.0,-0.738
+Loyal Customers,690,0.001,0.0,0.0,1804.481,1245091.721,0.17,-6.43
+New Customers,122,0.002,0.011,0.0,300.105,36612.83,0.861,0.0
+Others,326,0.064,0.232,0.058,286.759,93483.51,0.168,-0.819
+Potential Loyalists,362,0.001,0.003,0.0,523.507,189509.54,0.293,0.996
+Promising,33,0.001,0.0,0.0,787.183,25977.03,0.0,0.0
