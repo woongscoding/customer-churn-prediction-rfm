@@ -1,0 +1,11 @@
+Feature,Importance
+FM_Score,0.5088553
+Segment_New Customers,0.25035188
+Segment_Champions,0.08507035
+Segment_Promising,0.071004696
+Segment_Loyal Customers,0.03836635
+Frequency,0.029720819
+Monetary,0.009060943
+Monetary_per_Frequency,0.007569676
+F_Score,0.0
+M_Score,0.0
