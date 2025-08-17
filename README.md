@@ -236,17 +236,3 @@ lightgbm>=3.3.0
 4. 브랜치에 Push (`git push origin feature/AmazingFeature`)
 5. Pull Request 생성
 
-## 📄 라이선스
-
-이 프로젝트는 MIT 라이선스 하에 배포됩니다. 자세한 내용은 `LICENSE` 파일을 참조하세요.
-
-## 📞 문의
-
-프로젝트에 대한 질문이나 제안사항이 있으시면 언제든 연락주세요!
-
-- **GitHub**: [woongscoding](https://github.com/woongscoding)
-- **GitHub Issues**: [이슈 등록](https://github.com/woongscoding/customer-churn-prediction-rfm/issues)
-
----
-
-⭐ 이 프로젝트가 도움이 되었다면 별표를 눌러주세요!
